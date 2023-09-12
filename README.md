@@ -13,10 +13,6 @@
   <p>- 💬 Ask me about Unity, Godot, Coding AI, C#</p>
   <p>- 📫 Work with me on UpWork!</p>
 </div>
-  <div align="center">
-
-</div>
-
 </div>
 
 <div>
