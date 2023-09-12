@@ -2,7 +2,7 @@
 # Hi guys 👋  I'm Matej Josifov
 
 
-<div style="display:flex">
+<div style="display:fgrid">
 
 <div>
 - 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
