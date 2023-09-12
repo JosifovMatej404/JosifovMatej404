@@ -12,10 +12,9 @@
 
 - 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
 - 🌱 I’m currently learning Audio Visualization
-- 👯 open source contributor
+- 👯 Freelancer and Independed Developer
 - 💬 Ask me about **Unity** **Godot** **Coding AI** **C#**
-- 📫 How to reach me: Upwork
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday
+- 📫 Work with me on UpWork!
 
 
 <h3 align="left">Languages and Tools:</h3>
