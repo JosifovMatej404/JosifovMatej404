@@ -4,18 +4,18 @@
 
 <div>
 
-
+<div>
 - 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
 - 🌱 I’m currently learning Audio Visualization
 - 👯 Freelancer and Independed Developer
 - 💬 Ask me about **Unity** **Godot** **Coding AI** **C#**
 - 📫 Work with me on UpWork!
-
-  <p align="center">
+</div>
+  <div align="center">
 
   <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
   
-</p>
+</div>
 
 </div>
 
