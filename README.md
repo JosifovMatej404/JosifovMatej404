@@ -1,8 +1,3 @@
-<p align="center">
-
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
-  
-</p>
 
 # Hi guys 👋  I'm Matej Josifov
 
@@ -15,6 +10,12 @@
 - 👯 Freelancer and Independed Developer
 - 💬 Ask me about **Unity** **Godot** **Coding AI** **C#**
 - 📫 Work with me on UpWork!
+
+  <p align="center">
+
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
+  
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
