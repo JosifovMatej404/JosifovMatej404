@@ -31,7 +31,7 @@
 
 
 <h3 align="left">How to reach me:</h3>
-<p align="left"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-2015.png" alt="UpWork" width="40" /> </a> 
+<p align="left"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/upwork.svg" alt="UpWork" width="40" /> </a> 
                                                                                                      <a href="https://www.youtube.com/@ErrorHunter404/about" target="_blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="YouTube" width="40" /> </a> 
 </p>
 <p align="left"> 
