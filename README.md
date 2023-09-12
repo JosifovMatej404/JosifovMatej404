@@ -2,7 +2,7 @@
 # Hi guys 👋  I'm Matej Josifov
 
 
-<div style="display:flex">
+<div style="display:grid">
 
 <div>
   <p>
