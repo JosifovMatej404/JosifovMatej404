@@ -34,7 +34,7 @@
                                                                                                      <a href="https://www.youtube.com/@ErrorHunter404/about" target="_blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="YouTube" width="40" /> </a> 
  <a href="https://stackoverflow.com/users/18848327/matej-josifov" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" width="40" /> </a> 
- <a href="https://www.linkedin.com/in/matej-josifov-625627204/" target="_blank"> <img src="https://p7.hiclipart.com/preview/297/542/427/5bbf4bcd44bbe.jpg" alt="YouTube" width="40" /> </a> 
+ <a href="https://www.linkedin.com/in/matej-josifov-625627204/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="YouTube" width="40" /> </a> 
 </p>
 <p align="left"> 
 </p>
