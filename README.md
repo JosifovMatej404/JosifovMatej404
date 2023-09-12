@@ -5,11 +5,12 @@
 <div style="display:fgrid">
 
 <div>
-- 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
-- 🌱 I’m currently learning Audio Visualization
-- 👯 Freelancer and Independed Developer
-- 💬 Ask me about **Unity** **Godot** **Coding AI** **C#**
-- 📫 Work with me on UpWork!
+  <p>
+  <p>- 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
+  <p>- 🌱 I’m currently learning Audio Visualization</p>
+  <p>- 👯 Freelancer and Independed Developer</p>
+  <p>- 💬 Ask me about **Unity** **Godot** **Coding AI** **C#**</p>
+  <p>- 📫 Work with me on UpWork!</p>
 </div>
   <div align="center">
 
