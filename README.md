@@ -4,7 +4,7 @@
 
 <div style="display:grid">
 
- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="325">
+ <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="310">
 <div>
  <p>
   <p>- 🌱 I’m currently learning Audio Visualization</p>
