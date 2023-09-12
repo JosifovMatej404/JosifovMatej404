@@ -30,7 +30,7 @@
 
 </div>
 <div>
-<h3 align="left">How to reach me:</h3>
+<h3 align="right">How to reach me:</h3>
 <p align="left"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-upwork-3629131-3030271.png" alt="UpWork" width="40" /> </a> 
                                                                                                      <a href="https://www.youtube.com/@ErrorHunter404/about" target="_blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="YouTube" width="40" /> </a> 
 </p>
