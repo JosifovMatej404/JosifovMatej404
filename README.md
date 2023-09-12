@@ -35,5 +35,3 @@
 </p>
 <p align="left"> 
 </p>
-<br>
-Credit: [aliashfak178](https://github.com/aliashfak178)
