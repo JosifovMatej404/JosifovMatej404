@@ -4,7 +4,7 @@
 
 <div style="display:grid">
 
- <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="325" height="250">
 <div>
   <p>
   <p>- 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
