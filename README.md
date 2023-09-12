@@ -3,7 +3,11 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
   
 </p>
-# Hello everyone 👋  I'm Matej Josifov
+
+# Hi guys 👋  I'm Ashfaque Ali
+
+
+
 
 
 - 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
