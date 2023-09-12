@@ -2,7 +2,7 @@
 # Hi guys 👋  I'm Matej Josifov
 
 
-
+<div>
 
 
 - 🔭 At that movement I am doing BSSEIT (Bachelor of Science in Software Engineering and Information Technologies)
@@ -17,6 +17,7 @@
   
 </p>
 
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://unity.com" target="_blank"> <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="unity" width="40" height="40"/> </a> <a href="https://godotengine.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="godot" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a> 
