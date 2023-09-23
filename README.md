@@ -6,9 +6,10 @@
 <div style="display:grid">
 
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="300">
-<br>
-<div style="padding:20px">
+<div">
  <p>
+<br>
+<br>
   <p>- 🌱 I’m currently learning Audio Visualization</p>
   <p>- 👯 Freelancer and Independed Developer</p>
   <p>- 💬 Ask me about Unity, Godot, Coding AI, C#</p>
