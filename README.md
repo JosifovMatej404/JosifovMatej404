@@ -1,5 +1,5 @@
 
-# Hello Everyone 👋
+# Hello 👋
 # I'm Matej Josifov
 
 
