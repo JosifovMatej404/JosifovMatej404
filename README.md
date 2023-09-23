@@ -28,7 +28,6 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
 </div>
-<br>
 <div>
 <h3 align="center">How to reach me:</h3>
 <p align="center"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-upwork-3629131-3030271.png" alt="UpWork" width="40" /> </a> 
