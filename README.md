@@ -7,7 +7,7 @@
 
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="300">
 <div>
-  <p>- 🌱 I’m currently learning Audio Visualization</p>
+  <p><br>- 🌱 I’m currently learning Audio Visualization</p>
   <p>- 👯 Freelancer and Independed Developer</p>
   <p>- 💬 Ask me about Unity, Godot, Coding AI, C#</p>
   <p>- 📫 Work with me on UpWork!</p>
