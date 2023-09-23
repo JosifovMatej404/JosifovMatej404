@@ -1,10 +1,12 @@
 
-# Hi guys 👋  I'm Matej Josifov
+# Hi guys 👋
+# I'm Matej Josifov
 
 
 <div style="display:grid">
 
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="300">
+<br>
 <div>
  <p>
   <p>- 🌱 I’m currently learning Audio Visualization</p>
