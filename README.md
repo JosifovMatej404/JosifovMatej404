@@ -7,7 +7,7 @@
 
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="300">
 <br>
-<div>
+<div stlye="align-items: center; justify-content: center">
  <p>
   <p>- 🌱 I’m currently learning Audio Visualization</p>
   <p>- 👯 Freelancer and Independed Developer</p>
