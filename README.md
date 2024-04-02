@@ -7,7 +7,7 @@
 <div">
   <p>- 🌱 I’m currently creating a game called Paper Earth's Bodyguard</p>
   <p>- 👯 Freelancer and Independed Developer</p>
-  <p>- 💬 Ask me about Unity, Godot, Coding AI, C#</p>
+  <p>- 💬 Ask me anything about the Game, Unity or Godot </p>
   <p>- 📫 Work with me on UpWork!</p>
 </div>
 </div>
