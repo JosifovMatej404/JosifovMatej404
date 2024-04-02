@@ -1,6 +1,5 @@
 
-# Hello 👋
-# I'm Matej Josifov
+# Hello 👋 I'm Matej Josifov.
 
 
 <div style="display:grid;justify-content: space-between">
