@@ -28,7 +28,7 @@
 </div>
 <div>
 <h3 align="center">How to reach me:</h3>
-<p align="center"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> <img src="https://c0.klipartz.com/pngpicture/388/713/gratis-png-logotipo-de-la-marca-registrada-venado-avatar-thumbnail.png" alt="UpWork" width="40" /> </a> 
+<p align="center"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> <img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" alt="UpWork" width="40" /> </a> 
                                                                                                      <a href="https://www.youtube.com/@ErrorHunter404/about" target="_blank"> <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="YouTube" width="40" /> </a> 
  <a href="https://stackoverflow.com/users/18848327/matej-josifov" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" width="40" /> </a> 
