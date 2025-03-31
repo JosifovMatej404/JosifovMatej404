@@ -5,9 +5,9 @@
 <div style="display:grid;justify-content: space-between">
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="420" height="300">
 <div">
-  <p>- 🌱 I’m currently creating a game called Paper Earth's Bodyguard</p>
-  <p>- 👯 Freelancer and Independed Developer</p>
-  <p>- 💬 Ask me anything about the Game, Unity or Godot </p>
+  <p>- 🌱 Creating the game "Paper Earth's Bodyguard"!</p>
+  <p>- 👯 Freelancer and Independed Developer!</p>
+  <p>- 💬 Ask me anything about the Game, Unity or Godot!</p>
   <p>- 📫 Work with me on UpWork!</p>
 </div>
 </div>
