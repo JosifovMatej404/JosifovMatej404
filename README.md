@@ -42,7 +42,7 @@
  <a href="https://stackoverflow.com/users/18848327/matej-josifov" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" width="40" /> </a> 
  <a href="https://www.linkedin.com/in/matej-josifov-625627204/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="YouTube" width="40" /> </a>
- <a href="https://discord.gg/Q7dK8RnJ" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/non_2x/discord-logo-discord-icon-transparent-free-png.png" alt="Discord" width="40" /> </a> 
+ <a href="https://discord.gg/Q7dK8RnJ" target="_blank"> <img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" alt="Discord" width="40" /> </a> 
 </p>
 </div>
 </div>
