@@ -39,7 +39,7 @@
 <h3 align="center">How to reach me:</h3>
 <p align="center"> <a href="https://www.upwork.com/freelancers/~016ea79e9b18862762" target="_blank"> 
 <img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" alt="UpWork" width="40" /> </a> 
-<a href="https://www.youtube.com/@ErrorHunter404/about" target="_blank"> 
+<a href="https://www.youtube.com/@Matej404" target="_blank"> 
 <img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/704/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" alt="YouTube" width="40" /> </a> 
  <a href="https://discord.gg/GMPVGjURZ6" target="_blank"> <img src="https://freelogopng.com/images/all_img/1691730767discord-logo-transparent.png" alt="Discord" width="40" /> </a>
    <a href="https://stackoverflow.com/users/18848327/matej-josifov" target="_blank">
